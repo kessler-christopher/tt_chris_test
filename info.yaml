@@ -4,7 +4,7 @@ project:
   title:        "Tiny tapeout MAC unit"      # Project title
   author:       "Christopher Kessler"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "MAC unit from A Multiply-and-Accumulate Array for Machine Learning Applications Based on a 3D Nanofabric Flow"      # One line description of what your project does
+  description:  "ADDER_XOR_NAND_AND_Dflop_INV"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     10000       # Clock frequency in Hz (or 0 if not applicable)
 
